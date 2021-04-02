@@ -1,3 +1,4 @@
 console.log('hello from home');
 
-const a = 3;
+const num = 3;
+const str = 'vova loh';
